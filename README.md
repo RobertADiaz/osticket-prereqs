@@ -58,3 +58,4 @@ Understanding the priority of Service level agreement such as response time  ,pr
 ![image](https://github.com/user-attachments/assets/dd6ed425-7cfb-4efb-8e55-18476c382993)
 
 Learning the critical role of users and permissions to their defining access level .These settings ensure that the right people have access to the apprptiate features and data based on their role within the organization.
+![image](https://github.com/user-attachments/assets/0b1ff6b5-c114-4351-9d85-deb57183e671)
