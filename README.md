@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites][(https://www.youtube.com](https://www.youtube.com/watch?v=WRr7XhbUlJg))
 
 <h2>Environments and Technologies Used</h2>
 
@@ -54,4 +54,7 @@ Using ticket creation ,Ticket status , ticket priotritization to undrstand the f
 </p>
 <p>
 Understanding the priority of Service level agreement such as response time  ,priority Based SLA  and resolution times.
-<br />
+
+![image](https://github.com/user-attachments/assets/dd6ed425-7cfb-4efb-8e55-18476c382993)
+
+Learning the critical role of users and permissions to their defining access level .These settings ensure that the right people have access to the apprptiate features and data based on their role within the organization.
