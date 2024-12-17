@@ -33,25 +33,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-<![image](https://github.com/user-attachments/assets/ca14204a-1ea6-49ba-8c68-8ee8462e1d52)
 </p>
 <p>
 Installing O.S ticket software and signing in as a admin users
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/fd4ab127-64b6-4dc2-9df2-e86cf0d06ed9)
+![image](https://github.com/user-attachments/assets/5349cea0-b812-4459-967d-d50c574af6ca)
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using ticket creation ,Ticket status , ticket priotritization to undrstand the fuctionality of oncoming tickets and assighning them accordingly to fellow team members.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/810cd8bd-d459-45ad-acea-8fb1dbf4c2f1)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Understanding the priority of Service level agreement such as response time  ,priority Based SLA  and resolution times.
 <br />
